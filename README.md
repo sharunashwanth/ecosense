@@ -5,7 +5,10 @@ EcoSense is a project aimed at identifying instances of public littering or wast
 
 ## Running in Google Colab
 
-Colab Link : [Click here](https://gist.github.com/Senthilsk10/587008f2db4492bb8c150b40fd57298d)
+###Gist Link : [Click here](https://gist.github.com/Senthilsk10/587008f2db4492bb8c150b40fd57298d)
+
+###Colab link : [Click here](https://colab.research.google.com/drive/1sB4pLA-kxGzL6oAMYxNK_DbFDewt2jPQ?usp=sharing)
+
 
 ### Usage
 1. Open the Colab notebook  in Google Colab.
