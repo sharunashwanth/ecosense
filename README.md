@@ -37,6 +37,4 @@ This project is licensed under the MIT License - see the [LICENSE](https://githu
 ### Acknowledgments
 Special thanks to the developers of YOLOv5 for their excellent object detection model.
 
-Special thanks to my friend, [Sharun Ashwanth](https://github.com/sharunashwanth), for their invaluable support and encouragement throughout the development of EcoSense.
-
 [View Licence](https://github.com/Senthilsk10/Ecosense/blob/main/LICENSE)
