@@ -24,15 +24,15 @@ EcoSense is a project aimed at identifying instances of public littering or wast
 7. The results will be displayed in the notebook, showing the detected instances of littering along with the corresponding timestamps.
 
 ### Sample Video
- sample videos (`video_!.mp4`) to (`video_9.mp4`) is provided in the Colab notebook for testing purposes. You can select one of the video to see how the detection works.
+ sample videos (`video_1.mp4`) to (`video_9.mp4`) is provided in the Colab notebook for testing purposes. You can select one of the video to see how the detection works.
 
 ### Viewing the Results
 The notebook will output the detected instances of littering along with the corresponding timestamps. You can find this information displayed directly in the notebook after running the detection on the selected video.
 
 ### License
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/Senthilsk10/Ecosense/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/sharunashwanth/ecosense/blob/main/LICENSE) file for details.
 
 ### Acknowledgments
 Special thanks to the developers of YOLOv5 for their excellent object detection model.
 
-[View Licence](https://github.com/Senthilsk10/Ecosense/blob/main/LICENSE)
+[View Licence](https://github.com/sharunashwanth/ecosense/blob/main/LICENSE)
